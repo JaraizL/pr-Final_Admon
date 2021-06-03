@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5687550a-dc79-47b6-a336-f8dc2cdfc799",
+    "data": [
+      {
+        "text": "vale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cca3da9-fee6-4b33-a8a1-1b4c2b37ee42",
+    "data": [
+      {
+        "text": "dinero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4605d1e-e734-416f-bf16-4fef744739a0",
+    "data": [
+      {
+        "text": "cuesta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a32426d-1e44-4d79-8681-b9deaac19fd3",
+    "data": [
+      {
+        "text": "costos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4d740d2-e525-4d0f-a7a9-fc8cd2f8c40f",
+    "data": [
+      {
+        "text": "precios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8396cec5-2c15-4c3f-b791-b3e8659df4fd",
+    "data": [
+      {
+        "text": "precio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

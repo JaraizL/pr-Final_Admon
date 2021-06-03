@@ -1,0 +1,64 @@
+{
+  "id": "2a812639-d150-4dbf-8992-74b080b50b48",
+  "name": "Compra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "callback_data": "mostrar-camisas",
+                      "text": "Camisas"
+                    }
+                  ],
+                  [
+                    {
+                      "callback_data": "mostrar-pantalones",
+                      "text": "Pantalones"
+                    }
+                  ]
+                ]
+              },
+              "text": "Con gusto, te ofrecemos las siguientes categorías de ropa, por favor elige una:"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

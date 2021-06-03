@@ -1,0 +1,121 @@
+[
+  {
+    "id": "dbc15853-49a2-4fd6-869d-8c65b83b6808",
+    "data": [
+      {
+        "text": "llegar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6b4b684-cd31-41f7-8aef-5460452e811d",
+    "data": [
+      {
+        "text": "medio dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3633711-6894-43a7-b6d2-10b8cb65efbe",
+    "data": [
+      {
+        "text": "abren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc9e29b3-21ea-4b4d-8c0b-3223a5335b1b",
+    "data": [
+      {
+        "text": "abrir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b1e30c0-66ad-4def-8380-52284ed99199",
+    "data": [
+      {
+        "text": "horas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecc8698c-2664-4dd2-9622-9dccc53ac899",
+    "data": [
+      {
+        "text": "cierre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e61ecb53-32f8-45db-ae02-1ed93e856301",
+    "data": [
+      {
+        "text": "cierran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86c77dbe-e857-455e-b8b1-3a9f0af71b88",
+    "data": [
+      {
+        "text": "hora",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9716aacf-c025-4a4f-827a-7144b1122673",
+    "data": [
+      {
+        "text": "horario",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

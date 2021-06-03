@@ -1,0 +1,132 @@
+[
+  {
+    "id": "4c8e438c-065a-4bca-988b-49495d4ac8a5",
+    "data": [
+      {
+        "text": "deseo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6e9e878-a347-44e5-8318-6e852a3df6be",
+    "data": [
+      {
+        "text": "estoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5844c6a4-515f-4a51-a75e-1343cbaf3603",
+    "data": [
+      {
+        "text": "estoy buscando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84a6e28c-420e-470b-b206-48cdcd35de2c",
+    "data": [
+      {
+        "text": "buscando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8002c6b-cfa4-4bd1-91e9-47dd36df8b2b",
+    "data": [
+      {
+        "text": "quiero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a705e9a2-c47d-4179-853d-f407a1e95a5a",
+    "data": [
+      {
+        "text": "comprar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07b09baa-fc11-4e19-be17-d165a4131c3e",
+    "data": [
+      {
+        "text": "consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22025433-fdb9-4f5f-acdf-ac61c7a84c3f",
+    "data": [
+      {
+        "text": "una consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72983a84-7c7b-4de0-a1f1-5b1602a88b26",
+    "data": [
+      {
+        "text": "una pregunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41807298-dec5-442b-b60b-3c82413f05e2",
+    "data": [
+      {
+        "text": "queria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

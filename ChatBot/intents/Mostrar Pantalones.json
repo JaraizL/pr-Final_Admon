@@ -1,0 +1,83 @@
+{
+  "id": "63b97dfd-6021-4297-a79f-cb60876f9c6d",
+  "name": "Mostrar Pantalones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.pinimg.com/originals/77/f7/b4/77f7b4ada7c852940a00a5aff3c93171.png",
+          "subtitle": "Hecho de poliéster",
+          "title": "Pantalón Azul",
+          "buttons": [
+            {
+              "postback": "https://i.pinimg.com/originals/77/f7/b4/77f7b4ada7c852940a00a5aff3c93171.png",
+              "text": "Comprar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://i.pinimg.com/originals/12/9a/8d/129a8dd2215b32b9e38ae10af71bb2e7.png",
+          "subtitle": "Hecho de poliéster",
+          "title": "Pantalón Blanco",
+          "buttons": [
+            {
+              "postback": "https://i.pinimg.com/originals/12/9a/8d/129a8dd2215b32b9e38ae10af71bb2e7.png",
+              "text": "Comprar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://www.dhresource.com/0x0/f2/albu/g8/M00/12/DD/rBVaV1waN6-AKmpXAAJjyHwaoUc465.jpg/ripped-jeans-for-men-long-spring-autumn-denim.jpg",
+          "subtitle": "Hecho de poliéster",
+          "title": "Pantalón Negro",
+          "buttons": [
+            {
+              "postback": "https://www.dhresource.com/0x0/f2/albu/g8/M00/12/DD/rBVaV1waN6-AKmpXAAJjyHwaoUc465.jpg/ripped-jeans-for-men-long-spring-autumn-denim.jpg",
+              "text": "Comprar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

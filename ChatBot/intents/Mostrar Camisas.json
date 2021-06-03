@@ -1,0 +1,83 @@
+{
+  "id": "eeed815a-a1a9-4b6d-b590-7d8b02886190",
+  "name": "Mostrar Camisas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/A1JsWvuVlhL._AC_UX679_.jpg",
+          "subtitle": "Hecha de algodon",
+          "title": "Camisa Gris",
+          "buttons": [
+            {
+              "postback": "https://images-na.ssl-images-amazon.com/images/I/A1JsWvuVlhL._AC_UX679_.jpg",
+              "text": "Comprar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://resources.sears.com.mx/medios-plazavip/fotos/productos_sears1/original/2866097.jpg",
+          "subtitle": "Hecha de poliester",
+          "title": "Camisa de Cuadros",
+          "buttons": [
+            {
+              "postback": "https://resources.sears.com.mx/medios-plazavip/fotos/productos_sears1/original/2866097.jpg",
+              "text": "Comprar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://cd1.distincion.eu/wp-content/uploads/2020/02/CAMISA-OXFORD-HOMBRE-CELESTE-VELILLA-DISTINCION.jpg",
+          "subtitle": "Camisa de vestir",
+          "title": "Camisa Azul",
+          "buttons": [
+            {
+              "postback": "https://cd1.distincion.eu/wp-content/uploads/2020/02/CAMISA-OXFORD-HOMBRE-CELESTE-VELILLA-DISTINCION.jpg",
+              "text": "Comprar"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

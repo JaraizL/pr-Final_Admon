@@ -1,0 +1,64 @@
+{
+  "id": "833bff26-4197-4fbc-88da-2ef6915ef155",
+  "name": "Precio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "telegram",
+          "title": "",
+          "payload": {
+            "telegram": {
+              "text": "Te comento que debes elegir una prenda de tu gusto para poder ver el precio en nuestra página web",
+              "reply_markup": {
+                "inline_keyboard": [
+                  [
+                    {
+                      "text": "Camisas",
+                      "callback_data": "mostrar-camisas"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Pantalones",
+                      "callback_data": "mostrar-pantalones"
+                    }
+                  ]
+                ]
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
